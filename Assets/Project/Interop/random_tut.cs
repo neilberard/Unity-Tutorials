@@ -18,6 +18,7 @@ public class random_tut : MonoBehaviour {
 
     private int FixThis () {
         int radius = 5;
+        //making achange to push
         return radius;
     }
 }
